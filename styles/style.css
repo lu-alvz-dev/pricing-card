@@ -23,7 +23,7 @@ body {
 .container {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  gap: 2rem;
   background-color: antiquewhite;
   padding: 2rem;
 }
