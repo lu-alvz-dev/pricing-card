@@ -16,3 +16,9 @@ body {
   background-color: #fff;
   height: 100vh;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  color: antiquewhite;
+}
