@@ -5,6 +5,14 @@
 }
 
 /* Global styles*/
+html {
+  font-size: 62.5%;
+}
+
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+  color: #000;
+  background-color: #fff;
+  height: 100vh;
 }
