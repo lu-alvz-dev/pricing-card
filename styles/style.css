@@ -102,4 +102,19 @@ li {
 button {
   font-size: 1.8rem;
   font-weight: bold;
+  color: #ffffff;
+  padding: 1.5rem 4rem;
+  border-radius: 1rem;
+}
+
+.free-btn {
+  background-color: #3b82f6;
+}
+
+.master-btn {
+  background-color: #6d28d9;
+}
+
+.sea-boss-btn {
+  background-color: #10b981;
 }
