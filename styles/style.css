@@ -49,6 +49,7 @@ article {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
+  padding: 1rem;
 }
 
 h2 {
@@ -77,6 +78,7 @@ li {
   font-weight: 400;
   color: #555555;
   font-size: 1.6rem;
+  padding: 1rem;
 }
 
 .master-price p {
@@ -89,6 +91,7 @@ li {
   font-weight: 400;
   color: #555555;
   font-size: 1.6rem;
+  padding: 1rem;
 }
 
 .sea-boss-price p {
@@ -101,6 +104,7 @@ li {
   font-weight: 400;
   color: #555555;
   font-size: 1.6rem;
+  padding: 1rem;
 }
 
 button {
