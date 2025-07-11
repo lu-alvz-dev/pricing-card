@@ -38,3 +38,35 @@ article {
   justify-content: space-evenly;
   align-items: center;
 }
+
+h2 {
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+.free-price p {
+  font-weight: 500;
+}
+
+.free-description {
+  font-weight: 400;
+}
+
+.master-price p {
+  font-weight: 500;
+}
+
+.master-description {
+  font-weight: 400;
+}
+
+.sea-boss-price {
+  font-weight: 500;
+}
+
+.sea-boss-description {
+  font-weight: 400;
+}
