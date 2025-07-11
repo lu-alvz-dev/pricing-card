@@ -82,35 +82,17 @@ li {
 .free-price p,
 .master-price p,
 .sea-boss-price p {
-  font-weight: 500;
+  font-weight: 550;
   color: #666666;
   font-size: 2rem;
   align-self: center;
 }
 
-.free-description {
-  font-weight: 400;
-  color: #555555;
-  font-size: 1.6rem;
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.master-description {
-  font-weight: 400;
-  color: #555555;
-  font-size: 1.6rem;
-  padding: 1rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
+.free-description,
+.master-description,
 .sea-boss-description {
-  font-weight: 400;
-  color: #555555;
+  font-weight: 450;
+  color: #444333;
   font-size: 1.6rem;
   padding: 1rem;
   display: flex;
