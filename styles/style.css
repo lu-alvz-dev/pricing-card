@@ -45,28 +45,39 @@ h2 {
 
 h3 {
   font-weight: 700;
+  color: #111111;
+}
+
+li {
+  color: #717171;
 }
 
 .free-price p {
   font-weight: 500;
+  color: #666666;
 }
 
 .free-description {
   font-weight: 400;
+  color: #555555;
 }
 
 .master-price p {
   font-weight: 500;
+  color: #666666;
 }
 
 .master-description {
   font-weight: 400;
+  color: #555555;
 }
 
-.sea-boss-price {
+.sea-boss-price p {
   font-weight: 500;
+  color: #666666;
 }
 
 .sea-boss-description {
   font-weight: 400;
+  color: #555555;
 }
