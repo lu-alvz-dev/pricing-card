@@ -59,6 +59,7 @@ h2 {
   font-weight: 600;
   font-size: 2.4rem;
   width: 100%;
+  text-align: center;
 }
 
 h3 {
@@ -120,9 +121,23 @@ button {
   background-color: #10b981;
 }
 
-.free-title {
-  background-color: #3b82f6;
+.free-title,
+.master-title,
+.sea-boss-title {
+  color: #ffffff;
   flex-basis: 30%;
   align-self: stretch;
   border-radius: 1.5rem 1.5rem 0 0;
+  display: flex;
+  align-items: center;
+}
+
+.free-title {
+  background-color: #3b82f6;
+}
+.master-title {
+  background-color: #6d28d9;
+}
+.sea-boss-title {
+  background-color: #10b981;
 }
