@@ -49,9 +49,9 @@ article {
   background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  padding: 1rem;
+  padding: 0 3rem 2rem;
 }
 
 h2 {
@@ -137,18 +137,3 @@ button {
 .sea-boss-btn {
   background-color: #10b981;
 }
-
-/* .free-list {
-  align-self: flex-end;
-  width: fit-content;
-}
-
-.master-list {
-  align-self: flex-end;
-  width: fit-content;
-}
-
-.sea-boss-list {
-  align-self: flex-end;
-  width: fit-content;
-} */
