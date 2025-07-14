@@ -37,7 +37,10 @@ body {
 .container {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 2rem;
+  flex-wrap: wrap;
+  /* max-width: 110rem; */
   background-color: antiquewhite;
   padding: 2rem;
 }
