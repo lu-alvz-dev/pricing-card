@@ -28,21 +28,17 @@ body {
   font-size: 1.6rem;
   color: #000;
   background-color: #fff;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .container {
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 2rem;
   flex-wrap: wrap;
-  /* max-width: 110rem; */
   background-color: antiquewhite;
-  padding: 2rem;
+  padding: 2rem 0;
 }
 
 article {
@@ -89,7 +85,7 @@ li {
   font-weight: 550;
   color: #666666;
   font-size: 2rem;
-  align-self: center;
+  align-self: end;
 }
 
 .free-description,
