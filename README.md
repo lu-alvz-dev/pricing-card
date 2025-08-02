@@ -36,3 +36,4 @@ To clone and view this project locally:
 git clone https://github.com/lu-alvz-dev/pricing-card.git
 cd your-repo-name
 open index.html in your browser
+
